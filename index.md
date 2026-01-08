@@ -9,6 +9,13 @@
 
 
 
+``` javascript
+var name = "Farhanul Hoque";
+```
+
+
+
+
 
 
 
@@ -30,4 +37,5 @@
 
 
 I am learning how to edit markdown files
+
 
