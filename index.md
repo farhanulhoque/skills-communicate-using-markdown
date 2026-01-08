@@ -14,6 +14,10 @@ var name = "Farhanul Hoque";
 ```
 
 
+- [x] Write my profession
+- [x] Mention my employer
+- [ ] Mention my city
+
 
 
 
@@ -37,5 +41,6 @@ var name = "Farhanul Hoque";
 
 
 I am learning how to edit markdown files
+
 
 
